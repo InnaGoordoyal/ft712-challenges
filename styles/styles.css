@@ -1,4 +1,6 @@
 @import "components/prefooter.css";
+@import "components/content.css";
+@import "components/cards.css";
 
 body {
   margin: 0;

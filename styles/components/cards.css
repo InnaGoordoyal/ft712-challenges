@@ -5,3 +5,7 @@
 .card-category {
  width: 10px;
 }
+
+.container-card h2 {
+ text-align: center;
+}

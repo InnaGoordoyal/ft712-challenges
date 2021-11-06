@@ -43,3 +43,7 @@ i {
   color: aliceblue;
   font-weight: 600;
 }
+
+.pf-wrapper {
+ display:flex;
+}

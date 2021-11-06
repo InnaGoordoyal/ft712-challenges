@@ -1,6 +1,7 @@
 @import "components/prefooter.css";
 @import "components/content.css";
 @import "components/cards.css";
+@import "components/newsletter.css";
 
 body {
   margin: 0;

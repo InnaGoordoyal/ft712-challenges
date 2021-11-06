@@ -1,0 +1,19 @@
+.newsletter-bloc{
+ align-items: center;
+ margin-left: 10%;
+ margin-right: 20%;
+ display: flex;
+}
+
+.news-heading{
+ width: 430px;
+  padding: 100px;
+  margin: 10px;
+ background-color: rgb(63, 59, 59);
+ border-radius: 1px;
+}
+
+.module-title{
+ width: 100%;
+ height: 70%;
+}

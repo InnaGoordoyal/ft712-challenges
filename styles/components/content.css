@@ -1,3 +1,20 @@
-.team-text-section h2 {
+.content-section {
  display: flex;
+ align-items: center;
+ float: right;
+ text-align: left;
+ padding:10px;
+ margin: auto;
+}
+
+#svg-office {
+ align-items: center;
+ margin-left: 10%;
+}
+
+.team-text-section{
+ float: right;
+ padding-left: 150px;
+ padding-right: 150px;
+ text-align: justify;
 }
